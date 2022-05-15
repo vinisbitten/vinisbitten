@@ -12,7 +12,7 @@
 
 - 🎮 I’m currently playing **Monster Hunter World**
 
-- ⚡ Fun fact **I like trains**
+- ⚡ Fun fact **The real name for a hashtag is an octothorpe**
 
 ##
 
