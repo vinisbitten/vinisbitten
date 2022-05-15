@@ -1,4 +1,14 @@
+<div>
+  <a href="https://github.com/vinisbitten">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=vinisbitten&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  </a>
+  <a href="https://github.com/vinisbitten">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinisbitten&layout=compact&repo=convoychat&theme=dracula"/>
+  </a>
+</div>
+
 ![MasterHead](https://d.facdn.net/art/fluff-kevlar/1351965326.fluff-kevlar_starfieldgif.gif)
+
 <h1 align="center">Hi <img src="https://github.com/vinisbitten/vinisbitten/blob/main/images/wave.gif" width="30px">, I'm Vinícius Bittencourt</h1>
 <h4 align="center">A passionate developer from Brazil</h4>
 <img align="right" src="https://github.com/vinisbitten/vinisbitten/blob/main/images/illustration.png" width="250"/>
