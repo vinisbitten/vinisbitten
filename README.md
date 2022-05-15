@@ -12,7 +12,7 @@
 
 - 🎮 I’m currently playing **Monster Hunter World**
 
-- ⚡ Fun fact **The real name for a hashtag is an octothorpe**
+- ⚡ Fun fact **the real name for a hashtag is an octothorpe**
 
 ##
 
