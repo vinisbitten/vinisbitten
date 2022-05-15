@@ -36,9 +36,9 @@
 
 <div>
   <a href="https://github.com/vinisbitten">
-    <img align="center" height="160" src="https://github-readme-stats.vercel.app/api?username=vinisbitten&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img align="center" height="150" src="https://github-readme-stats.vercel.app/api?username=vinisbitten&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   </a>
   <a href="https://github.com/vinisbitten">
-    <img align="center" height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinisbitten&layout=compact&repo=convoychat&theme=dracula"/>
+    <img align="center" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinisbitten&layout=compact&repo=convoychat&theme=dracula"/>
   </a>
 </div>
