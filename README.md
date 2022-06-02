@@ -1,6 +1,6 @@
 ![MasterHead](https://d.facdn.net/art/fluff-kevlar/1351965326.fluff-kevlar_starfieldgif.gif)
 
-<h1 align="center">Hi <img src="https://github.com/vinisbitten/vinisbitten/blob/main/images/wave.gif" width="30px">, I'm Vinícius Bittencourt</h1>
+<h1 align="center">Hi <img src="https://github.com/vinisbitten/vinisbitten/blob/main/images/wave.gif" width="20px">, I'm Vinícius Bittencourt</h1>
 <h4 align="center">A passionate developer from Brazil</h4>
 <img align="right" src="https://github.com/vinisbitten/vinisbitten/blob/main/images/illustration.png" width="250"/>
 
