@@ -4,9 +4,9 @@
 <h4 align="center">A passionate developer from Brazil</h4>
 <img align="right" src="https://github.com/vinisbitten/vinisbitten/blob/main/images/illustration.png" width="250"/>
 
-- 🔭 I’m currently working on **a content aggregator using Python and Django**
+- 🔭 I’m currently working as a **freelancer**
 
-- 🌱 I’m currently learning **Python graphic interfaces**
+- 🌱 I’m currently learning **typescript**
 
 - 📖 I’m a student at **Faculdade Impacta**
 
