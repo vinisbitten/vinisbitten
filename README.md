@@ -5,15 +5,13 @@
 ---
 
 <!--The next div is used to remove the h1 underline-->
-
-<div id="user-content-toc" align="center">
-  <ul id="remove-h1-underline">
-    <summary><h1>Hi <img src="https://github.com/vinisbitten/vinisbitten/blob/main/images/wave.gif" width="30" />, I'm Vinícius Bittencourt</h1></summary>
+<div id="user-content-toc">
+  <ul>
+    <summary align="center"><h1>Hi <img src="https://github.com/vinisbitten/vinisbitten/blob/main/images/wave.gif" width="30" />, I'm Vinícius Bittencourt</h1></summary>
+    <summary align="center"><p>A passionate developer from Brazil</p></summary>
   </ul>
-  <h4 align="center">A passionate developer from Brazil</h4>
 </div>
-
-<img alt="work-desk" align="right" src="https://github.com/vinisbitten/vinisbitten/blob/main/images/illustration.png" width="250" />
+<img alt="work-desk" align="right" src="https://github.com/vinisbitten/vinisbitten/blob/main/images/illustration.png" width="250em" />
 
 ---
 
@@ -32,8 +30,6 @@
 
 ---
 
-<br>
-
 <div id="logos" align="center">
   <a href="https://github.com/vinisbitten?tab=repositories">
     <img alt="conda-icon" width="40em"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" />
@@ -47,7 +43,7 @@
     <img alt="react-icon" width="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   </a>
   
-  <a>
+  <a href="https://github.com/vinisbitten?tab=repositories">
     <img alt="go-icon" width="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" />
     <img alt="kafka-icon" width="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" />
     <img alt="docker-icon" width="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" />
@@ -64,7 +60,7 @@
 
 <br>
 
-<div id="social-network" align="center"> 
+<div id="social-network" align="center">
   <a href="https://instagram.com/vini_bitten">
     <img alt="instagram" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
@@ -74,7 +70,7 @@
   <a href="mailto:vinipagano@gmail.com">
     <img alt="mail" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/vinícius-pagano-b98386236">
+  <a href="https://www.linkedin.com/in/vin%C3%ADcius-bittencourt-b98386236">
     <img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div>
@@ -82,9 +78,9 @@
 ---
 
 <div id="git-stats" align="center">
-  <a align="center" href="https://github.com/vinisbitten">
-    <img alt="commits" align="center" height="165em" src="https://github-readme-stats-vinisbitten.vercel.app/api?username=vinisbitten&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-    <img alt="top-langs" align="center" height="165em" src="https://github-readme-stats-vinisbitten.vercel.app/api/top-langs/?username=vinisbitten&layout=compact&langs_count=7&theme=dracula" />
+  <a href="https://github.com/vinisbitten">
+    <img alt="commits" height="165em" src="https://github-readme-stats-vinisbitten.vercel.app/api?username=vinisbitten&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+    <img alt="top-langs" height="165em" src="https://github-readme-stats-vinisbitten.vercel.app/api/top-langs/?username=vinisbitten&layout=compact&langs_count=7&theme=dracula" />
   </a>
 </div>
 
