@@ -80,8 +80,8 @@
 
 <div id="git-stats" align="center">
   <a align="center" href="https://github.com/vinisbitten">
-    <img alt="commits" align="center" height="165em" src="https://github-readme-stats.vercel.app/api?username=vinisbitten&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img alt="top-langs" align="center" height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinisbitten&layout=compact&langs_count=7&theme=dracula"/>
+    <img alt="commits" align="center" height="165em" src="http://github-readme-stats-vinisbitten.vercel.app/api?username=vinisbitten&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img alt="top-langs" align="center" height="165em" src="http://github-readme-stats-vinisbitten.vercel.app/api/top-langs/?username=vinisbitten&layout=compact&langs_count=7&theme=dracula"/>
   </a>
 </div>
 
