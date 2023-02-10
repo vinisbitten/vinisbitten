@@ -19,9 +19,9 @@
 - 💼 I'm currently in **back-end** area
 - 🌱 I’m currently learning
 > - _**Clean Arch**_
+> - _**Postgres**_
 > - _**Kafka**_
 > - _**Go**_
-> - _**Docker**_
 - 📖 I’m a student at **Faculdade Impacta**
 
 - 🎮 I’m currently playing **Monster Hunter World**
