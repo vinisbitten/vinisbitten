@@ -16,15 +16,16 @@
 ---
 
 - 🔭 I’m currently working at **Conceitho Tecnologia**
-- 💼 I'm currently in **back-end** area
+- 💼 I'm currently as a **full stack developer** and **devops engineer**
 - 🌱 I’m currently learning
-> - _**Clean Arch**_
-> - _**Postgres**_
-> - _**Kafka**_
-> - _**Go**_
+> - _**Delphi**_
+> - _**Terraform**_
+> - _**Event Driven Architecture**_
+> - _**Kubernetes**_
+> - _**Kong**_
 - 📖 I’m a student at **Faculdade Impacta**
 
-- 🎮 I’m currently playing **Monster Hunter World**
+- 🎮 I’m currently playing **The Legend of Zelda™: Tears of the Kingdom**
 
 - ⚡ Fun fact **bananas are radioactive**
 
